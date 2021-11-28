@@ -11,7 +11,7 @@ export default function Portfolio() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Header />
-      <section className='px-4 w-full pageAnima' id='portfolio'>
+      <section className='px-4 md:px-16 w-full pageAnima' id='portfolio'>
         <h2 className=''>Portfolio</h2>  
       </section>
 

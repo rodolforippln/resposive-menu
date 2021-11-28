@@ -11,7 +11,7 @@ export default function Contact() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Header />
-      <section className='px-4 w-full pageAnima' id='contact'>
+      <section className='px-4 md:px-16 w-full pageAnima' id='contact'>
         <h2 className=''>Contact</h2>  
       </section>
 

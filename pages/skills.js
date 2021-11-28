@@ -11,7 +11,7 @@ export default function Skills() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Header />
-      <section className='px-4 w-full pageAnima' id='skills'>
+      <section className='px-4 md:px-16 w-full pageAnima' id='skills'>
         <h2 className=''>Skills</h2>  
       </section>
 

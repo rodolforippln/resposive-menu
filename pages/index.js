@@ -12,7 +12,7 @@ export default function Index() {
         
       </Head>
       <Header />
-      <section className='px-4 w-full pageAnima' id='home'>
+      <section className='px-4 md:px-16 w-full pageAnima' id='home'>
         <h2 className=''>Home</h2>
  
       </section>

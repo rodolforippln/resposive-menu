@@ -6,7 +6,7 @@ function Header() {
   const router = useRouter ()
   return (
 
-  <header className='fixed top-0 left-0 w-full bg-gray-100 z-10 transition duration-500 px-4'>    
+  <header className='fixed top-0 left-0 w-full bg-gray-100 z-10 transition duration-500 px-4 md:px-16'>    
     <nav className='h-16 flex justify-between items-center'>
       <div>
       <Link href='/'>
