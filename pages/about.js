@@ -11,7 +11,7 @@ export default function About() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Header />
-      <section className='px-4 mt-24 w-full' id='about'>
+      <section className='px-4 w-full pageAnima' id='about'>
         <h2 className=''>About</h2>  
       </section>
 
